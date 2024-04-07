@@ -1,0 +1,7 @@
+#CALUCALATION OF AREA AND PERIMETER OF CIRCLE
+pi=3.14
+r=int(input("enter the values of radius:"))
+area=pi*r*r
+perimeter=2*pi*r
+print("area of the circle:",area)
+print("perimeter of the circle:",perimeter)
